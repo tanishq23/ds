@@ -10,7 +10,7 @@ cin >> n;
 cout<<"sir please enter for undirected grah"<<endl;
      cin>>x>>y;
     if(x>=n&&y>=n)
-        cout<<"sir ji please enter within range"<<endl;
+        cout<<"please enter within range"<<endl;
         else
         {
     while(x!=-1&&y!=-1)
